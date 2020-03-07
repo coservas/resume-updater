@@ -23,7 +23,7 @@
   "browser_action": {
     "default_icon": "icons/nuclear.png",
     "default_title": "Resume-updater",
-    "default_popup": "bar/bar.html"
+    "default_popup": "html/bar.html"
   },
 
   "background": {
@@ -31,7 +31,7 @@
   },
 
   "options_ui": {
-    "page": "options/options.html",
+    "page": "html/options.html",
     "browser_style": true,
     "chrome_style": true
   }
